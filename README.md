@@ -1,6 +1,6 @@
-# project
+# Expense Tracker App
 
-A new Flutter project.
+An app that takes user data and helps them to set there day to day transaction or expenses on track by stroring them in proper order.
 
 ## Getting Started
 

@@ -1,10 +1,6 @@
 # Expense Tracker App
 
-
-<img src='https://imageupload.io/Ixd9CaYdGXnpe0j](https://photos.app.goo.gl/vV4Cupe2JNg5DmC57' width='25'>
-
-<img src="https://photos.app.goo.gl/vV4Cupe2JNg5DmC57" width="400" height="790">
-
+[project photos/third.jpeg](https://github.com/Master-Bibash/Expense-Tracker-App/blob/main/project%20photos/third.jpeg)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

@@ -3,9 +3,8 @@
 
 <img src='https://imageupload.io/Ixd9CaYdGXnpe0j](https://photos.app.goo.gl/vV4Cupe2JNg5DmC57' width='25'>
 
-![alt](https://photos.app.goo.gl/vV4Cupe2JNg5DmC57){: width="50%"}
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://photos.app.goo.gl/vV4Cupe2JNg5DmC57" width="400" height="790">
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

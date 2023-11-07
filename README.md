@@ -3,7 +3,7 @@
 An app that takes user data and helps them to set there day to day transaction or expenses on track by stroring them in proper order.
 
 ## Some Screen Shots of Project 
-<img src="https://github.com/Master-Bibash/Expense-Tracker-App/assets/111418772/c66acd1e-d59d-4541-be47-ee0542337e47" width="250" height="250" />
+<img src="https://github.com/Master-Bibash/Expense-Tracker-App/assets/111418772/c66acd1e-d59d-4541-be47-ee0542337e47" width="250" height="400" />
 
 <img src="https://github.com/Master-Bibash/Expense-Tracker-App/assets/111418772/151b6698-6ffc-480b-b16f-431979065b7c" width="200" height="400" />
 

@@ -2,7 +2,8 @@
 
 An app that takes user data and helps them to set there day to day transaction or expenses on track by stroring them in proper order.
 
-## Getting Started
+## Some Screen Shots of Project 
+![first](https://github.com/Master-Bibash/Expense-Tracker-App/assets/111418772/c66acd1e-d59d-4541-be47-ee0542337e47)
 
 This project is a starting point for a Flutter application.
 
